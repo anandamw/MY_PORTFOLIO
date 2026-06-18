@@ -5,7 +5,7 @@ With a passion for modern design and clean code, I bring ideas to life.
 
 ## Overview
 - **Domain**: [anandamw.site](https://anandamw.site)
-- **Email**: hello@anandamw.site
+- **Email**: anandamw.exp@gmail.com
 
 ## Profile
 ![Ananda MW Profile](image.png)
